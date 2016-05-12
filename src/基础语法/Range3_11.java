@@ -4,7 +4,7 @@ package 基础语法;
 // 导入这个可以省略 System
 import static java.lang.System.*; 
 
-public class Range {
+public class Range3_11 {
 	
 	public static void main(String[] args) {
 		
